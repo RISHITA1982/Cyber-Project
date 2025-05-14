@@ -55,7 +55,7 @@ By the end of this project, we aim to:
 ## 📂 Structure
 
 📁 cipher-project/
-├── 📄 index.html
+├── 📄 index2.html
 ├── 📄 style.css
 ├── 📄 script.js
 └── 📄 README.md
